@@ -46,10 +46,19 @@ button {
     justify-content: space-between;
 }
 
-.password {
+#passwords p {
     border-radius: 6px;
     background: #273549;
     width: 211px;
-    height: 39px;
+    height: 35px;
+    padding-top:4px;
     margin-top: 35px;
+    color: #55F991;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 200% */
+    
 }
